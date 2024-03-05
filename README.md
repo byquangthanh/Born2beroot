@@ -21,4 +21,4 @@ vim /usr/local/bin/monitoring.sh`
 8. `sudo var/log/sudo` theres the sudo.log file
 9. sudo adduser <new username>
 10. `sudo ufw status numbered`
-11. sudo usermod -a -G examplegroup exampleusername
+11. add user`sudo usermod -a -G examplegroup exampleusername`

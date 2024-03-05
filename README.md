@@ -15,7 +15,7 @@ To add a user user `adduser <name>`
 `getent group` to see all available groups
 `getent <groupname>` to see users in thata group
 6. View sudoers file
-`sudo vim /etc/sudoers.d`
+`sudo visudo`
 7. Viewing monitoring.sh script`
 vim /usr/local/bin/monitoring.sh`
 8. `sudo var/log/sudo` theres the sudo.log file
